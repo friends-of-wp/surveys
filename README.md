@@ -1,5 +1,7 @@
 # Surveys
 
+We love to collect and share data about WordPress development.
+
 ## 2023
 
 ### Plugin development and premium features
